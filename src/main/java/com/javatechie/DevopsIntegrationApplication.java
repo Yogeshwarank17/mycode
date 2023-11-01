@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "test web . LiKe & Share this video & also Subscribe";
+		return "yogesh test application . LiKe & Share this video & also Subscribe";
 	}
 
 	public static void main(String[] args) {
